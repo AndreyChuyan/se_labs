@@ -55,12 +55,13 @@
 
 # Занятость хостов
 
-| №   | Преподаватель               | Диапазон IP-адресов |
-| --- | --------------------------- | ------------------- |
-| 1   | se_docker_Maks_Tachkov      | 192.168.2.100-119   |
-| 2   | se_openapi_Valeriy_Zubairov | 192.168.2.150-169   |
-| 3   | se_kafka_Sergey_Bulatov     | 192.168.2.170-189   |
-| 4   | se_prometheus_Andrey_Chuyan | 192.168.2.80-99     |
+| №   | Преподаватель                | Диапазон IP-адресов |
+| --- | ---------------------------- | ------------------- |
+| 1   | se_Prometheus_Andrey_Chuyan  | 192.168.2.80-99     |
+| 2   | se_Docker_Maks_Tachkov       | 192.168.2.100-119   |
+| 3   | se_Openapi_Valeriy_Zubairov  | 192.168.2.150-169   |
+| 4   | se_Kafka_Sergey_Bulatov      | 192.168.2.170-189   |
+| 5   | se_Keycloak_Aleksey_Vasiliev | 192.168.2.190-209   |
 
 # ⏰ Подготовка: 1-2 дня до занятия
 
