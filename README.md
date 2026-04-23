@@ -366,7 +366,7 @@ ssh linux@192.168.2.XXX
  _     _ 
   \___/    SE_Labs
  ( ^_^ )   
- /| o |\   🐞 Dbgops
+ /| o |\   🐞 DebugSkills
  /|___|\   by Andrey Chuyan
- _/  \_    https://chuyana.ru
+ _/  \_    https://debugskills.ru/
 ```
