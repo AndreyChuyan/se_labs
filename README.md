@@ -360,7 +360,7 @@ ssh linux@192.168.2.XXX
 
 ## 👤 Автор
 
-[Dbgops](https://chuyana.ru)
+[AndreyChuyan](https://chuyana.ru)
 
 ```bash
  _     _ 
